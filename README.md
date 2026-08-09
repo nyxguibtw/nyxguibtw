@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=15&duration=3500&pause=1000&color=C9A66B&center=true&vCenter=true&width=600&lines=BORN+OF+NIGHT%2C+BOUND+TO+RISE." />
 </p>
-
 <!--
 **nyxguibtw/nyxguibtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
