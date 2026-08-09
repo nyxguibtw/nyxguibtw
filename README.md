@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/1200x/ae/08/e3/ae08e335c6ee7e378d8bad54427f15bd.jpg](https://chatgpt.com/backend-api/estuary/content?id=file_00000000b50c820e93262e7b102c3fd2&ts=496180&p=fs&cid=1&sig=89c43a069a0b5d2cb95faa765767113b9ef3841a48271bbd45630344c116b64f&v=0)" width="100%">
+  <img src="./banner.png" width="100%">
 </p>
 
 <p align="center">
