@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/ae/08/e3/ae08e335c6ee7e378d8bad54427f15bd.jpg" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=15&duration=3500&pause=1000&color=C9A66B&center=true&vCenter=true&width=600&lines=BORN+OF+NIGHT%2C+BOUND+TO+RISE." />
+</p>
 
 <!--
 **nyxguibtw/nyxguibtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
